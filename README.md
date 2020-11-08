@@ -1,4 +1,8 @@
-# instaclone
+# A simple 10 question Quiz app 
+
+### Tech Stack used
+1. Vue.js
+2. Vuesax (vue.js UI Framework)
 
 ## Project setup
 ```
@@ -10,15 +14,5 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
